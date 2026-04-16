@@ -14,7 +14,7 @@ Esta es la **Práctica 1**. Consiste en un **proyecto vacío** creado en Android
 1. Clona el repositorio:
    
    ```bash
-   git clone https://github.com/valmejia/TDSMH_P1P6_VMG.git
+   git clone https://github.com/valmejia/P1practica1.git
 
 2. Abre Android Studio.
 3. Espera a que se sincronicen las dependencias (Gradle).
